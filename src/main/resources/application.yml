@@ -1,0 +1,6 @@
+spring: 
+  application: 
+    name: ContentCreationService
+
+aws:
+  region: us-east-1
